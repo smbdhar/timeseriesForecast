@@ -1,4 +1,4 @@
-# timeseries analysis and forecasting
+# Timeseries analysis and forecasting
 
 
 Source code written in Matlab
